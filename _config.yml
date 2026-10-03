@@ -1,0 +1,47 @@
+title: "Zo Valentine"
+description: "Business Systems Architect · Builder · Researcher · Educator · Author"
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+collections:
+  systems:
+    output: true
+    permalink: /systems/:name/
+  research:
+    output: true
+    permalink: /research/:name/
+  books:
+    output: true
+    permalink: /books/:name/
+  services:
+    output: true
+    permalink: /services/:name/
+  case_studies:
+    output: true
+    permalink: /case-studies/:name/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      type: systems
+    values:
+      layout: system
+  - scope:
+      type: research
+    values:
+      layout: page
+  - scope:
+      type: books
+    values:
+      layout: page
+  - scope:
+      type: services
+    values:
+      layout: page
+  - scope:
+      type: case_studies
+    values:
+      layout: page
