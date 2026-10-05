@@ -43,3 +43,7 @@ Caphè = applied systems practice / laboratory / implementation organization.
 This scaffold is designed for Jekyll/GitHub Pages. GitHub Pages supports Jekyll natively; GitHub currently recommends GitHub Actions for deployment workflows.
 
 Do not publish confidential client, credential, security, health, or other sensitive information in a public repository.
+
+## Live site
+
+https://zo-valentine.github.io/Professor-Zo-Valentine/
