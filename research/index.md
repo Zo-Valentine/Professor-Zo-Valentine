@@ -36,6 +36,8 @@ How applied learning systems prepare a workforce for information-intensive work 
 
 ## Shinra No Kozo — The Caphè Data System
 
+**Caphè's Observable Data Architecture**
+
 `QUESTION → SIGNALS → EVIDENCE → MODEL → INTERPRETATION → HUMAN DECISION → INTERVENTION → OUTCOME → FEEDBACK`
 
 ## Evidence labels
