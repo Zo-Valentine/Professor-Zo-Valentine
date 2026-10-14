@@ -5,16 +5,25 @@ title: Services
 # Services
 
 ## Service Architecture
-Caphè services are organized around bottlenecks rather than software categories.
+Caphè services are organized around bottlenecks rather than software categories. Every
+engagement moves through the same four steps — start at the first one that fits.
 
-### Diagnose
-Find the information, data, workflow, or decision bottleneck.
+### 01 — Diagnose · $250–$500
+An operational audit: a focused workflow review, findings, and prioritized recommendations.
+Find the information, data, workflow, or decision bottleneck before investing in a solution.
 
-### Build
-Design and implement the smallest useful system that resolves it.
+### 02 — Fix · $1,000 sprint
+One defined automation sprint: implementation, testing, documentation, and a basic
+measurement plan for a single workflow.
 
-### Operate
-Monitor, measure, improve, and expand the system.
+### 03 — Integrate · $2,500–$7,500
+Connect multiple systems, establish reliable event handling, and implement monitoring and
+exception paths.
+
+### 04 — Operate · quoted after scoping
+Ongoing monitoring, reporting, agreed support, and continuous workflow optimization.
+
+*Prices are indicative starting ranges. Final pricing depends on scope, integrations, usage, deployment, support requirements, and third-party fees. Integration and AI projects are quoted after discovery.*
 
 ## Service Families
 
@@ -30,20 +39,21 @@ Monitor, measure, improve, and expand the system.
 
 ## Property & Real Estate Operations
 
-The same Diagnose → Build → Operate architecture applied to property operators, disposition/
-REO teams, and small-to-growing property-management companies — see the
+The same four-step ladder applied to property operators, disposition/REO teams, and
+small-to-growing property-management companies — see the
 [Property Operations Intelligence Platform]({{ '/systems/property-operations-intelligence-platform/' | relative_url }})
-system page. The entry ladder is scoped to operator size rather than a single fixed offer:
+system page:
 
-**Diagnose** → Property Operations Snapshot (a single property/workflow diagnostic)
-**Build** → Workflow Audit → Operations Sprint (implement one specific improvement)
-**Operate** → Automation Sprint → ongoing Intelligence/Operations Layer (ongoing monitoring, reporting, optimization)
+- **01 Diagnose** → an operational audit of a single property or workflow
+- **02 Fix** → one automation sprint that implements a specific improvement
+- **03 Integrate** → connect the PMS, CRM, and messaging systems already in use ($2,500–$7,500 initial implementation)
+- **04 Operate** → the ongoing intelligence/operations layer — monitoring, reporting, optimization
 
 Initial focus is owner-operators and small-to-growing property-management companies rather
 than institutional multifamily, which is already well served by enterprise PMS/BI vendors.
 
 ## Entry Path
-`PROBLEM → DIAGNOSE → ARCHITECT → BUILD → MEASURE → OPERATE`
+`PROBLEM → DIAGNOSE → FIX → INTEGRATE → OPERATE`
 
 ### Introducing CurbIQ — the pilot service
 
